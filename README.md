@@ -13,16 +13,44 @@ A Flutter-based personal finance management application with multi-currency supp
 - [Known Issues](#known-bugs-or-unimplemented-features)
 
 ## Screenshots
-![shimmer](assets/images/1.png)
-![home screen](assets/images/2.png)
-![home screen](assets/images/3.png)
-![home screen](assets/images/4.png)
-![home screen](assets/images/5.png)
-![home screen](assets/images/6.png)
-![home screen](assets/images/7.png)
-![Add Expense](assets/images/8.png)
-![Add Expense](assets/images/9.png)
+<div align="center">
 
+<!-- Row 1 -->
+<img src="assets/images/1.png" width="280" alt="Shimmer loading"/>
+&nbsp;&nbsp;&nbsp;
+<img src="assets/images/2.png" width="280" alt="Home screen - USD"/>
+
+<br><br>
+
+<!-- Row 2 -->
+<img src="assets/images/3.png" width="280" alt="Currency selector"/>
+&nbsp;&nbsp;&nbsp;
+<img src="assets/images/4.png" width="280" alt="Home screen - EGP"/>
+
+<br><br>
+
+<!-- Row 3 -->
+<img src="assets/images/5.png" width="280" alt="Expense list"/>
+&nbsp;&nbsp;&nbsp;
+<img src="assets/images/6.png" width="280" alt="Filtered list"/>
+
+<br><br>
+
+<!-- Row 4 -->
+<img src="assets/images/7.png" width="280" alt="Empty state"/>
+&nbsp;&nbsp;&nbsp;
+<img src="assets/images/8.png" width="280" alt="Add expense screen"/>
+
+<br><br>
+
+<!-- Row 5 -->
+<img src="assets/images/9.png" width="280" alt="Add expense with categories"/>
+
+</div>
+
+<div align="center">
+  <sub><em>Screenshots taken on Android • Pixel 4 emulator</em></sub>
+</div>
 ## Architecture Overview
 
 The application follows a **feature-first architecture** with clean separation of concerns, combining domain-driven design with practical Flutter patterns.
