@@ -3,6 +3,7 @@
 A Flutter-based personal finance management application with multi-currency support, built using Clean Architecture principles and Bloc state management.
 
 ## 📋 Table of Contents
+- [Screenshots](#screenshots)
 - [Architecture Overview](#architecture-overview)
 - [State Management](#state-management-approach)
 - [API Integration](#api-integration)
@@ -10,6 +11,17 @@ A Flutter-based personal finance management application with multi-currency supp
 - [Trade-offs and Assumptions](#trade-offs-and-assumptions)
 - [Getting Started](#how-to-run-the-project)
 - [Known Issues](#known-bugs-or-unimplemented-features)
+
+## Screenshots
+![shimmer](assets/images/1.png)
+![home screen](assets/images/2.png)
+![home screen](assets/images/3.png)
+![home screen](assets/images/4.png)
+![home screen](assets/images/5.png)
+![home screen](assets/images/6.png)
+![home screen](assets/images/7.png)
+![Add Expense](assets/images/8.png)
+![Add Expense](assets/images/9.png)
 
 ## Architecture Overview
 
